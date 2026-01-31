@@ -1,0 +1,30 @@
+{
+    "folder": "C:\\Nexon\\TalesWeaver\\ChatLog",
+    "chat_display_colors": {
+        "一般": "white",
+        "耳打ち": "green",
+        "チーム": "orange",
+        "クラブ": "cyan",
+        "システム": "#FFD56B",
+        "叫ぶ": "violet"
+    },
+    "exclude_options": {
+        "経験値が": false,
+        "ルーン経験値が": false,
+        "[ELSO": false,
+        "ペットが": false
+    },
+    "filters": {
+        "一般": true,
+        "耳打ち": true,
+        "チーム": true,
+        "クラブ": true,
+        "システム": true,
+        "叫ぶ": true
+    },
+    "ng_words": [],
+    "sp_words": [],
+    "show_time": false,
+    "show_label": false,
+    "remember_state": false
+}
